@@ -45,7 +45,6 @@ pytest = "*"
 pylint = "*"
 pytest-cov = "*"
 tensorflow = "^2.0.0"
-opencv-python = "*"
 types-requests = "*"
 types-pkg-resources = "*"
 
